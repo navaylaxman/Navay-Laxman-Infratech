@@ -1,0 +1,6 @@
+{
+  "name": "Fleet Management System",
+  "description": "A comprehensive full-stack fleet management system featuring role-based dashboards for Owners, Supervisors, and Drivers. Includes real-time GPS simulation, maintenance scheduling, vendor management, insurance tracking, automated PDF/CSV reports, and interactive SQL query analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
